@@ -1,7 +1,15 @@
-function print1to10() {
-//let i = 1;
-    for (let i = 1; i <= 10; i++) {
-       console.log(i);
-  }
-}
-print1to10();
+var number = 1;
+var number = 2;
+
+ console.log(number);
+
+
+ let number = 1;
+    number = 2;
+ console.log(number);
+
+
+const number = 1;
+     number = 2;
+
+ console.log(number);
